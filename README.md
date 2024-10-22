@@ -1,8 +1,31 @@
 # Classification-du-signal-audio-de-la-toux-de-la-tuberculose-pour-7-pays
-Stage de fin d'études en IA
+Stage de fin d'études - AEC Spécialisation Technique en Intelligence Artificielle
 ![image](https://github.com/user-attachments/assets/efe279f3-02ae-4fa7-b5d9-bdd2582354b6)
-Les objectifs du Stage
 ![image](https://github.com/user-attachments/assets/47049d39-a63f-4249-8374-b5176f5f431e)
-Plan de l’étude
 ![image](https://github.com/user-attachments/assets/97df1ed5-59f4-411f-8693-67b613466ab2)
-
+![image](https://github.com/user-attachments/assets/85a6f431-4b63-4118-af56-25531b0b58d8)
+![image](https://github.com/user-attachments/assets/b1aaa1b5-c9aa-4516-b4c7-5a70b365a792)
+![image](https://github.com/user-attachments/assets/6988bd99-0790-4f44-a6b9-ff836351c503)
+![image](https://github.com/user-attachments/assets/9be7a4d5-1d68-46dd-b333-e36e8e559a8a)
+![image](https://github.com/user-attachments/assets/bda8e1cb-176b-443c-bc10-9156b17989a6)
+![image](https://github.com/user-attachments/assets/70345f76-d335-4b98-9b72-7f657c4864b6)
+![image](https://github.com/user-attachments/assets/a45b7bc9-3f66-4083-9b05-adc82dc56f41)
+![image](https://github.com/user-attachments/assets/71aace70-8140-45af-97c3-5ee1ace85381)
+![image](https://github.com/user-attachments/assets/5bc41bf5-cfb5-4232-a81c-df41839630f2)
+![image](https://github.com/user-attachments/assets/c6c2f1da-7176-41f7-8a32-2eeb7d23d011)
+![image](https://github.com/user-attachments/assets/e2902713-dd47-4870-a6fe-ccf96bf909d9)
+![image](https://github.com/user-attachments/assets/5ef1e1ea-1114-4e5d-971e-73ae7b6136bc)
+![image](https://github.com/user-attachments/assets/2f9642d3-dd68-4ddd-80c2-4c82fb6dbf6b)
+![image](https://github.com/user-attachments/assets/5be56ed2-824e-4158-a4be-5466cd278c48)
+![image](https://github.com/user-attachments/assets/e5518fa0-52f5-4341-a84b-a2ba8521c905)
+![image](https://github.com/user-attachments/assets/32c0d556-8505-483f-b981-8573d0fd975f)
+![image](https://github.com/user-attachments/assets/2580b59f-36f0-4bbb-a247-3e94c6e026ca)
+![image](https://github.com/user-attachments/assets/c8fd1203-2ebc-4539-87c5-9543b8947870)
+![image](https://github.com/user-attachments/assets/367da77e-146c-4bee-be5f-cf3d90a4e4e9)
+![image](https://github.com/user-attachments/assets/f7e62a72-62fc-425b-beab-d41707efc015)
+![image](https://github.com/user-attachments/assets/941fd6e8-54ed-4366-92c7-c733761c188c)
+![image](https://github.com/user-attachments/assets/bcaf927a-6360-4aae-880f-98e4ff4bb23b)
+![image](https://github.com/user-attachments/assets/04a53c50-1195-44ea-b24e-e37d01d8e4a4)
+![image](https://github.com/user-attachments/assets/b5a47dcf-a9a1-4670-8d47-5d6de0d06b5a)
+![image](https://github.com/user-attachments/assets/f0c2aec0-7aff-44fa-b940-2b6e4fdbb3af)
+![image](https://github.com/user-attachments/assets/e0ed378d-d970-4975-90f7-a607537dc5fc)
